@@ -95,7 +95,10 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-7"
+                "pl-4",
+                "pt-4",
+                "pb-4",
+                "pr-4"
             ],
             "margin": [
                 "mr-0"
