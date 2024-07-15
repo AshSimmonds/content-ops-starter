@@ -18,7 +18,7 @@
                     "label": "Home Loans",
                     "altText": "",
                     "url": "/home-loans",
-                    "showIcon": false,
+                    "showIcon": true,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
