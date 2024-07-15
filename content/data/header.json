@@ -29,7 +29,7 @@
                     "label": "Property Investment & Development",
                     "altText": "",
                     "url": "/property-Investment-Development",
-                    "showIcon": false,
+                    "showIcon": true,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
