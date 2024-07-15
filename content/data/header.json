@@ -32,7 +32,7 @@
                     "showIcon": true,
                     "icon": "arrowDown",
                     "iconPosition": "right",
-                    "style": "secondary",
+                    "style": "primary",
                     "elementId": ""
                 },
                 {
