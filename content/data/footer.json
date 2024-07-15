@@ -1,10 +1,5 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "A description of your brand",
+    "text": "##### Adelaide’s Home, Business and Corporate Finance Specialists… since 2013\n\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -36,36 +31,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
-        {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
         {
             "altText": "Twitter link",
             "url": "https://twitter.com/netlify",
@@ -103,7 +69,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Powered by...\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
