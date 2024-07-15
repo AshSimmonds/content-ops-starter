@@ -1,14 +1,6 @@
 {
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Solutions",
             "altText": "Solutions",
