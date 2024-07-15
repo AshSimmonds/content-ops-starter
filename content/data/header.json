@@ -91,5 +91,12 @@
             }
         },
         "url": "/images/cropped-mayfair-finance-australia-logo-banner-white-11 .png"
+    },
+    "styles": {
+        "self": {
+            "padding": [
+                "pl-7"
+            ]
+        }
     }
 }
